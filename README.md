@@ -1,3 +1,1 @@
-# Algorithm
-
-Algorithm_Python
+# Algorithm_Python
